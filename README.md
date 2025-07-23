@@ -2,7 +2,7 @@
 
 Official Pytorch Code base for "BGSNet: A boundary-guided Siamese multitask network for semantic change detection from high-resolution remote sensing images"
 
-[Project](https://github.com/long123524/BGSNet)
+[Paper](https://www.sciencedirect.com/science/article/pii/S0924271625001728?via%3Dihub)
 
 ## Introduction
 
