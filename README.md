@@ -78,7 +78,7 @@ A preprocessed dataset of cropland non-agriculturalization in Fuzhou is availabl
 
 ## Training and testing
 
-Will be available.
+Will be available in September.
 
 ## A pretrained weight
 A pretrained weight of PVT-V2 on the ImageNet dataset is provided: https://drive.google.com/file/d/1uzeVfA4gEQ772vzLntnkqvWePSw84F6y/view?usp=sharing
