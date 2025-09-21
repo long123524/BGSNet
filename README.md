@@ -29,6 +29,7 @@ OpenCV
 numpy
 tqdm
 skimage
+timm
 ...
 ```
 
@@ -76,9 +77,19 @@ JL-1 dataset: https://www.jl1mall.com/store/ResourceCenter.
 HRSCD dataset: https://ieee-dataport.org/open-access/hrscd-high-resolution-semantic-change-detection-dataset#files.
 A preprocessed dataset of cropland non-agriculturalization in Fuzhou is available at https://drive.google.com/file/d/1SlTw3jKr3cE6d3i5XYQhzylG0geMzNZW/view?usp=sharing.
 
-## Training and testing
+## pre-processing
+python preprocess.py
 
-Will be available in September.
+## Training
+
+python train_SCD.py
+
+## Test
+python pred_SCD.py
+
+## Evaluation
+
+python Eval_SCD.py
 
 ## A pretrained weight
 A pretrained weight of PVT-V2 on the ImageNet dataset is provided: https://drive.google.com/file/d/1uzeVfA4gEQ772vzLntnkqvWePSw84F6y/view?usp=sharing
