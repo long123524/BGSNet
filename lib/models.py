@@ -252,6 +252,7 @@ class BGSNet(nn.Module):
         self.out_feature = nn.Conv2d(64, num_classes, 1)
         self.out_feature2 = nn.Conv2d(64, num_classes, 1)
         self.out_feature1 = nn.Conv2d(64, 1, 1)
+        self.out_feature3 = nn.Conv2d(64, 1, 1)
         self.C1 = CBAM(128)
         self.C0 = CBAM(64)
 
