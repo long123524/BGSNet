@@ -122,13 +122,13 @@ If you find this work useful or interesting, please consider citing the followin
   publisher={Elsevier}
 }
 
-@article{long2025,
-  title={SMGNet:A Semantic Map-Guided Multitask Neural Network for Remote Sensing Image Semantic Change Detection},
-  author={Long, Jiang and Liu, Sicong and Li, Mengmeng},
-  journal={IEEE GEOSCIENCE AND REMOTE SENSING LETTERS},
-  volume={22},
-  pages={1--5},
+@article{long2025d,
+  title={Detecting semantic changes from VHR remote sensing images by integrating semantic correlations and change priors},
+  author={Long, Jiang and Zeng, Hongwei and Zhao, Hang and Lin, Haihan and Li, Junbin},
+  journal={International Journal of Applied Earth Observation and Geoinformation},
+  volume={144},
+  pages={104916},
   year={2025},
-  publisher={IEEE}
+  publisher={Elsevier}
 }
 ```
